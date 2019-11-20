@@ -1,0 +1,16 @@
+{
+  "name": "find-important-text-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.9",
+    "csv-parser": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrue Anderson",
+  "license": "ISC"
+}
